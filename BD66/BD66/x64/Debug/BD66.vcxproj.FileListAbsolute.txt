@@ -1,0 +1,12 @@
+D:\прога\BD66\BD66\x64\Debug\BD66.vcxproj.AssemblyReference.cache
+D:\прога\BD66\BD66\x64\Debug\BD66.vcxproj.Up2Date
+C:\Users\Ярослав\Desktop\бэк\BD66\BD66\x64\Debug\BD66.vcxproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\бэк\BD66\BD66\x64\Debug\BD66.vcxproj.Up2Date
+C:\Users\Ярослав\Desktop\бэк — копия\BD66\BD66\x64\Debug\BD66.vcxproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\бэк — копия\BD66\BD66\x64\Debug\BD66.vcxproj.Up2Date
+C:\Users\Ярослав\Desktop\бэк — копия — копия\BD66\BD66\x64\Debug\BD66.vcxproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\бэк — копия — копия\BD66\BD66\x64\Debug\BD66.vcxproj.Up2Date
+E:\аип\3\BD66\+\BD66\BD66\x64\Debug\BD66.vcxproj.AssemblyReference.cache
+E:\аип\3\BD66\+\BD66\BD66\x64\Debug\BD66.vcxproj.Up2Date
+D:\аип\3\BD66\+\BD66\BD66\x64\Debug\BD66.vcxproj.AssemblyReference.cache
+D:\аип\3\BD66\+\BD66\BD66\x64\Debug\BD66.vcxproj.Up2Date
